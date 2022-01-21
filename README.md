@@ -49,7 +49,7 @@ optional arguments:
 
 ### Example run
 
-```bash
+```r
 Rscript xAM_sim.r \
     -n 4000 -m 1000 -g 5 --nsim 1 \
     --rho_beta 0 --h2_y .5 --h2_z .5 \
