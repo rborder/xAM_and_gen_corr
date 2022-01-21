@@ -47,20 +47,13 @@ optional arguments:
                         Where to start indexing runs. Serves as random seed
 ```
 
-### Example simulation
+### Example run
 
 ```bash
 Rscript xAM_sim.r \
-  -n 4000 \
-  -m 1000 \
-  -g 5 \
-  --nsim 1 \
-  --rho_beta 0 \
-  --rxyy .5 \
-  --rxzz .5 \
-  --rxyz .25 \
-  --h2_y .5 \
-  --h2_z .5 \
-  --seed 123
+    -n 4000 -m 1000 -g 5 --nsim 1 \
+    --rho_beta 0 --h2_y .5 --h2_z .5 \
+    --rxyy .5 --rxzz .5 --rxyz .25 \
+    --seed 123
 ```
 
