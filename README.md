@@ -1,4 +1,3 @@
-# xAM_and_gen_corr
-# xAM_and_gen_corr
-# xAM_and_gen_corr
-# xAM_and_gen_corr
+# Code accompanying /Cross-trait assortative mating is widespread and inflates genetic correlation estimates
+
+
