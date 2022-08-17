@@ -57,3 +57,16 @@ Rscript xAM_sim.r \
     --seed 123
 ```
 
+### Output format
+
+The headerless output file consists of the following fields:
+
+```r
+c("generation", "mating_scheme", "rho_beta_true", "seed", "rfreq", 
+"rx_yy", "rx_yz", "rx_zz", "rw_yz", "h2_y_true", "h2_z_true", 
+"rho_ell_true", "rho_beta_prs", "rmate", "beta_bias_scaled_y", 
+"beta_bias_scaled_z", "beta_bias_y", "beta_bias_z", "rho_ell_prs", 
+"h2_y_HE", "h2_z_HE", "rg_HE", "r_zz", "r_yy", "s2_z0", "s2_y0", 
+"rho_beta", "m", "n")
+```
+
