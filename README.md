@@ -1,5 +1,7 @@
 ## Code accompanying _Cross-trait assortative mating is widespread and inflates genetic correlation estimates_
 
+[![DOI](https://zenodo.org/badge/433595922.svg)](https://zenodo.org/badge/latestdoi/433595922)
+
 ### Dependendencies
 
 This code is intended to be run using `R` version 4.0 or newer. The following packages are required:
